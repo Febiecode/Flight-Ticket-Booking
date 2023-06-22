@@ -6,6 +6,18 @@ A flight booking Django application written in Python, HTML, CSS & Javascript.
 
 ![home](https://github.com/Febiecode/Flight-Ticket-Booking/assets/93641901/1567cdff-f13c-425a-9c62-052e21b99bbc)
 
+### Admin credential
+- username: sathyakumar
+- pwd: admin
+
+### Admin Management
+  - `Flight` - Models directory. Admin can easily modify and add new records for below models.
+    - `Flight` 
+    - `Passengers`
+    - `Places` 
+    - `Tickets`
+    - `Users`
+
 ### Features
 1. Users can create their user account.
 2. Users can book both one-way as well as round-trip tickets.
@@ -61,14 +73,4 @@ A flight booking Django application written in Python, HTML, CSS & Javascript.
 - Open web browser and goto `127.0.0.1:8000` url to start using the web application.
 
 
-### Admin credential
-- username: sathyakumar
-- pwd: admin
 
-### Admin Management
-  - `Flight` - Models directory. Admin can easily modify and add new records for below models.
-    - `Flight` 
-    - `Passengers`
-    - `Places` 
-    - `Tickets`
-    - `Users`
